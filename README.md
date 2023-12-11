@@ -26,3 +26,8 @@ GET https://api.sncf.com/v1/coverage/sncf/stop_areas/stop_area:SNCF:87391003/dep
 Documentation
 Support
 L'équipe API SNCF
+
+
+## navitia.io
+
+ https://f5d04fbf-aa81-4396-8dc8-3288a3477bd2@api.navitia.io/v1/coverage/sandbox/lines
