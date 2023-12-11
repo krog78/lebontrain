@@ -1,4 +1,4 @@
-package org.krog78;
+package org.lebontrain;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
